@@ -3,8 +3,7 @@ Check Discord usernames quickly and accurately with this powerful tool.
 ## Features ✨ :
 - Fast username checking
 - Automatic saving of available usernames
-- Colorful interface
-- 100% free!
+- 100% free
 
 ## Installation 🚀 :
 
