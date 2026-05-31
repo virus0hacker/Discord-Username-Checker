@@ -1,12 +1,12 @@
 Check Discord usernames quickly and accurately with this powerful tool.
 
-## Features ✨
+## Features ✨ :
 - Fast username checking
 - Automatic saving of available usernames
 - Colorful interface
 - 100% free!
 
-## Installation 🚀
+## Installation 🚀 :
 
 ### Easy Method:
 ```bash
@@ -27,7 +27,7 @@ colorama
 
 ---
 
-Usage 📝
+Usage 📝 :
 ---
 Put usernames in usernames.txt
 Run the program:
@@ -38,6 +38,5 @@ python discord_checker.py
 Contact 📞
 ---
 Twitter: @h3fq1 & @uy4n
----
+
 Discord: @6km3
----
