@@ -20,8 +20,11 @@ python discord_checker.py
 Requirements:
 ---
 Python 3.8+
+
 aiohttp
+
 colorama
+
 ---
 
 Usage 📝
