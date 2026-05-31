@@ -14,8 +14,11 @@ git clone https://github.com/virus0hacker/Discord.py
 ```
 ---
 cd Discord.py
+---
 pip install -r requirements.txt
+---
 python discord_checker.py
+---
 ```
 ```
 Requirements:
@@ -38,3 +41,4 @@ Contact 📞
 Twitter: @h3fq1 & @uy4n
 ---
 Discord: @6km3
+---
