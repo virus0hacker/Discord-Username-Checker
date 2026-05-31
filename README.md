@@ -33,7 +33,7 @@ Put usernames in usernames.txt
 Run the program:
 
 python discord_checker.py
----
+
 
 Contact 📞
 ---
