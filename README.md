@@ -10,7 +10,7 @@ Check Discord usernames quickly and accurately with this powerful tool.
 
 ## Installation 🚀 :
 
-### Easy Method:
+### Easy Method :
 ```bash
 git clone https://github.com/virus0hacker/discord_checker.py
 ```
@@ -19,7 +19,7 @@ pip install -r requirements.txt
 python discord_checker.py
 
 ---
-Requirements:
+Requirements :
 ---
 Python 3.8+
 
