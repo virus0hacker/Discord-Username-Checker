@@ -13,12 +13,13 @@ Check Discord usernames quickly and accurately with this powerful tool.
 git clone https://github.com/virus0hacker/Discord.py
 ```
 ---
-cd Discord.py
+1- cd Discord.py
 ---
-pip install -r requirements.txt
+2- pip install -r requirements.txt
 ---
-python discord_checker.py
+3- python discord_checker.py
 ---
+
 ```
 ```
 Requirements:
