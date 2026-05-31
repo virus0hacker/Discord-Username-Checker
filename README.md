@@ -1,6 +1,6 @@
 Check Discord usernames quickly and accurately with this powerful tool.
 
-https://raw.githubusercontent.com/virus0hacker/Discord.py/main/images/Screenshot 2026-05-31 085248.png
+https://raw.githubusercontent.com/virus0hacker/Discord.py/main/images/Screenshot.png
  
 ## Features ✨ :
 - Fast username checking
